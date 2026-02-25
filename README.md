@@ -4,7 +4,6 @@
 
 Vengo del mundo del diagnóstico técnico y la resolución de problemas complejos. Ahora aplico esa misma lógica deductiva y precisión para construir software robusto, escalable y eficiente. Mi enfoque no es solo que el código funcione, sino que sea mantenible y limpio.
 
----
 
 ### 🛠️ Mi Stack Tecnológico
 
