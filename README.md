@@ -1,4 +1,4 @@
-### Hola, soy Leo 👋
+## Hola, soy Leo 👋
 
 **Backend Developer | Python & SQL Specialist | Clean Architecture Enthusiast**
 
